@@ -27,6 +27,7 @@ var appData = require('../mock/data.json')
 var guide = appData.guide
 var user = appData.user
 var room = appData.room
+var book = appData.book
 
 var apiRoutes = express.Router();
 
@@ -46,6 +47,12 @@ apiRoutes.get('/room', function(req, res){
   res.json({
     errno: 0,
     data: room
+  })
+})
+apiRoutes.get('/book', function(req, res){
+  res.json({
+    errno: 0,
+    data: book
   })
 })
 

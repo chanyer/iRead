@@ -193,5 +193,70 @@
           }
         ]
       }
+    ],
+    "book": [
+      {
+        
+        "id":"100",
+        "name":"ES6入门",
+        "tag":"hot",
+        "picture":"",
+        "author":"",
+        "price":""
+      },
+      {
+        
+        "id":"101",
+        "name":"ES6入门1",
+        "tag":"hot",
+        "picture":"",
+        "author":"",
+        "price":""
+      },
+      {
+        
+        "id":"102",
+        "name":"ES6入门2",
+        "tag":"new",
+        "picture":"",
+        "author":"",
+        "price":""
+      },
+      {
+        
+        "id":"103",
+        "name":"ES6入门3",
+        "tag":"hot",
+        "picture":"",
+        "author":"",
+        "price":""
+      },
+      {
+        
+        "id":"104",
+        "name":"ES6入门4",
+        "tag":"hot",
+        "picture":"",
+        "author":"黄小平",
+        "price":"25"
+      },
+      {
+        
+        "id":"105",
+        "name":"ES6入门5",
+        "tag":"hot",
+        "picture":"",
+        "author":"黄小平",
+        "price":"25"
+      },
+      {
+        
+        "id":"106",
+        "name":"ES6入门6",
+        "tag":"hot",
+        "picture":"",
+        "author":"黄小平",
+        "price":"25"
+      }
     ]
 }
