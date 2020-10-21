@@ -2,7 +2,7 @@
   "name": "iRead",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "hcp",
+  "author": "charles",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
